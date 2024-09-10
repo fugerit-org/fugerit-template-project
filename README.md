@@ -2,6 +2,14 @@
 
 Template for some common frameworks
 
+## Micronaut 4 (fugerit-micronaut4-template)
+
+Module [fugerit-micronaut4-template](fugerit-micronaut4-template/README.md) generated with command : 
+
+```shell
+mn create-app --build=maven --jdk=21 --lang=java --test=junit --features=openapi,openapi-explorer,yaml,graalvm,micronaut-aot,netty-server,serialization-jackson org.fugerit.java.template.fugerit-micronaut4-template
+```
+
 ## Quarkus 3 (fugerit-quarkus3-template)
 
 Module [fugerit-quarkus3-template](fugerit-quarkus3-template/README.md) generated with command : 
