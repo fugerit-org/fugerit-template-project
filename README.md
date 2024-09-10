@@ -21,9 +21,9 @@ mvn io.quarkus.platform:quarkus-maven-plugin:3.14.2:create \
 -Dextensions='rest,rest-jackson,config-yaml,smallrye-openapi'
 ```
 
-## SpringBoot (fugerit-springboot-template)
+## SpringBoot (fugerit-springboot3-template)
 
-Module [fugerit-springboot-template](fugerit-springboot-template/README.md) generated with [spring initializr](https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.3.3&packaging=jar&jvmVersion=21&groupId=org.fugerit.java.template&artifactId=fugerit-springboot-template&name=fugerit-springboot-template&description=Fugerit%20SpringBoot%20Template&packageName=org.fugerit.java.template.fugerit-springboot-template&dependencies=web,native).
+Module [fugerit-springboot3-template](fugerit-springboot3-template/README.md) generated with [spring initializr](https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.3.3&packaging=jar&jvmVersion=21&groupId=org.fugerit.java.template&artifactId=fugerit-springboot3-template&name=fugerit-springboot3-template&description=Fugerit%20SpringBoot%20Template&packageName=org.fugerit.java.template.fugerit-springboot3-template&dependencies=web,native,devtools,lombok).
 
 Project info : 
 

@@ -1,10 +1,10 @@
-package org.fugerit.java.template.fugerit_springboot_template;
+package org.fugerit.java.template.fugerit_springboot3_template;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FugeritSpringbootTemplateApplicationTests {
+class FugeritSpringboot3TemplateApplicationTests {
 
 	@Test
 	void contextLoads() {

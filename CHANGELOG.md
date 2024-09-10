@@ -11,4 +11,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Module fugerit-micronaut4-template, based on micronaut 4
 - Module fugerit-quarkus3-template, based on quarkus 3
-- Module fugerit-springboot-template, based on springboot 3.3.3 + SpringBoot Web and GraalVM support
+- Module fugerit-springboot3-template, based on springboot 3.3.3 + SpringBoot Web and GraalVM support
