@@ -42,3 +42,11 @@ Project info :
 - project : maven
 - jakarta EE version : 10.0
 - microprofile version : 6.1
+
+After customization, run : 
+
+```shell
+mvn clean package liberty:run
+```
+
+And open <http://localhost:8080/hello>
