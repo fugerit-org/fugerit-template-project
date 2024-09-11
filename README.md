@@ -31,3 +31,14 @@ Project info :
 - project : maven
 - language : java
 - dependencies : Spring Web, GraalVM Native SUpport
+
+## OpenLiberty (fugerit-openliberty-template)
+
+Module [fugerit-openliberty-template](fugerit-springboot3-template/README.md) generated with <https://openliberty.io/start/>.
+
+Project info : 
+
+- base version : 24.0.0.9
+- project : maven
+- jakarta EE version : 10.0
+- microprofile version : 6.1
